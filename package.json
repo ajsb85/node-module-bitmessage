@@ -36,7 +36,7 @@
     "chai": "*",
     "jsdoc": "^3.3.2",
     "jshint": "*",
-    "karma": "^0.12.31",
+    "karma": "^6.4.4",
     "karma-browserify": "^2.0.0",
     "karma-chrome-launcher": "^0.1.7",
     "karma-cli": "~0.0.4",
@@ -47,7 +47,7 @@
     "mocha": "*"
   },
   "dependencies": {
-    "bn.js": "^3.0.1",
+    "bn.js": "^5.2.3",
     "bs58": "^2.0.0",
     "buffer-equal": "~0.0.1",
     "eccrypto": "^1.0.3",
